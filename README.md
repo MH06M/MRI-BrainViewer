@@ -28,7 +28,7 @@ https://github.com/user-attachments/assets/250f04fb-285d-4701-b4fe-f8fc0a067adc
 - Muhammad Nasser
 
 ## 🧾 License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Jiro75/Brain-Viewer/blob/43c15e42a9aafc12035254abe77d74a6714705e3/LICENSE)) for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/MH06M/MRI-BrainViewer/blob/main/LICENSE)) for details.
 
 ## 📞 Contact
 Email: mostafahany748@gmail.com <br>
